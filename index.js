@@ -4,8 +4,7 @@ const fs = require("fs");
 const config = require("./config.json");
 client.config = config;
 
-
-
+require('http').createServer((req, res) => res.end(`Login.`)).listen(3000) //Dont remove this 
 
 // Initialise discord giveaways
 const { GiveawaysManager } = require("discord-giveaways");
