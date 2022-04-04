@@ -23,7 +23,7 @@ Windows
 npm install 
 ```
 
-### Step 2: Obtain a Bot Token From [Here](https://discord.com/developers)
+- Step 2: &nbps; Obtain a Bot Token From [Here](https://discord.com/developers)
 
   
 
