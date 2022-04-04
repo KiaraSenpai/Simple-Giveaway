@@ -23,9 +23,9 @@ Windows
 npm install 
 ```
 
-- Step 2: &nbps; Obtain a Bot Token From [Here](https://discord.com/developers)
--  Step 3 &nbps;  Replace the Token in [config.json](https://github.com/ZeroDiscord/Giveaway/blob/master/config.json) <br>
-- 🙌 &nbps; That's all! We Are Done! Now Simply host the Bot!
+- Step 2 Obtain a Bot Token From [Here](https://discord.com/developers)
+- Step 3 Replace the Token in [config.json](https://github.com/ZeroDiscord/Giveaway/blob/master/config.json) <br>
+- 🙌 That's all! We Are Done! Now Simply host the Bot!
 
 ### Run with node
 ```sh
