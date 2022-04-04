@@ -43,31 +43,3 @@ node index.js
 npm install -g pm2@latest
 pm2 start --name "Giveaway" index.js --watch
 ```
-
-# Features
-## Featuring | Slash Commands 
-<kbd>
-  <img src="https://zerosnap.000webhostapp.com/ktfoi0f9.gif">
-</kbd>
-<b>
-  
-### Interactive Giveaway Creation
-  
-  <kbd>
-  <img src="https://zerosnap.000webhostapp.com/mig6cvt0.gif">
-</kbd>
-<b>
-  
-### Featured ✨ Bonus Entries 
-<kbd>
-  <img src="https://zerosnap.000webhostapp.com/8eblx4sc.gif">
-</kbd>
-<b>
-
-  
-### And Lots More!
-- Direct message when the server mentioned for joining is not joined
-- Direct message when the server mentioned for joining is joined 
-- Direct Message When User Reacts on an ended giveaway
-- Direct Message User On Removing Reaction
-- Direct Message Winner On Winning
