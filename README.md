@@ -25,10 +25,6 @@ npm install
 ```
 
 ### Step 2: Obtain a Bot Token From [Here](https://discord.com/developers) <br> <br>
-<kbd>
-  <img src="https://zerosnap.000webhostapp.com/2faykzzg.gif">
-</kbd>
-<b>
   
 
 ### Step 3 : Replace the Token in [config.json](https://github.com/ZeroDiscord/Giveaway/blob/master/config.json) <br>
